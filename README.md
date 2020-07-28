@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Selim</a>.<br> I'm a UI Developer from Istanbul.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
+  <samp>Hello there. I'm <a href="https://blog.wegeek.fun">Tom</a>.<br> I'm a Developer from China.<br><br>#javascript, #golang, #sre, #zen</samp>
   <br>
   <br>
   <br>
@@ -11,4 +11,4 @@
 </p>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>
+<p align="center">⭐️ From <a href="https://github.com/dayuoba">@tomg</a></p>

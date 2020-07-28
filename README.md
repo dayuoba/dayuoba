@@ -11,4 +11,4 @@
 </p>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/dayuoba">@tomg</a></p>
+<p align="center">⭐️ From <a href="https://github.com/dayuoba">@tom</a></p>
